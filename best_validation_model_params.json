@@ -1,0 +1,1 @@
+{"filters": 64, "kernel_size": 5, "pool_size": 3, "dense_units": 64, "batch_size": 32, "epochs": 30}
